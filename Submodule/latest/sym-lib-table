@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ScorpiUSLibrary")(type "KiCad")(uri "${KIPRJMOD}/../../ScorpiUSLib/ScorpiUSLibrary.kicad_sym")(options "")(descr ""))
+)
